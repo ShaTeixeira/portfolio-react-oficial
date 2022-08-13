@@ -1,0 +1,62 @@
+@import "../../styles/global.scss";
+
+footer {
+  background: $purple-primary;
+  padding: 3rem 0;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 7rem;
+  a {
+    color: $color-base-two;
+  }
+}
+.footer__logo img {
+  width: 4rem;
+  margin-bottom: 2rem;
+  display: inline-block;
+}
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 0 auto 3rem;
+}
+.footer__socials {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 4rem;
+  a {
+    background: $purple;
+    color: $white;
+    padding: 0.8rem;
+    border-radius: 0.7rem;
+    display: flex;
+    border: 1px solid transparent;
+    &:hover {
+      background: transparent;
+      color: $color-base-two;
+      border-color: $color-base-two;
+    }
+  }
+}
+.footer__copyright {
+  margin-bottom: 4rem;
+  color: $white;
+}
+
+/* MEDIA QUERIES (MEDIUM DEVICES) */
+@media screen and (max-width: 1024px) {
+}
+
+/* MEDIA QUERIES (SMALL DEVICES) */
+@media screen and (max-width: 600px) {
+  .links {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .footer__socials {
+    margin-bottom: 2.6rem;
+  }
+}
