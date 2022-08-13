@@ -1,11 +1,11 @@
 <h1 align="center">
-<img src="assets/image/iconbytedev.svg" alt="Logo bytedev" width="40%">
+<img src="./src/assets/image/icons/iconbytedev.svg" alt="Logo bytedev" width="20%">
 <p>Meu Portfólio</p>
 </h1>
 
 <h4 align="center"><a href="">Clique para visitar o site</a></h4>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](./src/assets/image/projects/preview.jpeg)
 
 ## 📚 Seções
 
