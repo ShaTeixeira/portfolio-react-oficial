@@ -31,17 +31,6 @@ function Experience() {
               />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className-="experience__details">
-              <CircleWavyCheck
-                className="experience__details-icon"
-                size={24}
-                weight="regular"
-              />
-              <div>
-                <h4>Javascript</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -52,8 +41,19 @@ function Experience() {
                 weight="regular"
               />
               <div>
+                <h4>Javascript</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className-="experience__details">
+              <CircleWavyCheck
+                className="experience__details-icon"
+                size={24}
+                weight="regular"
+              />
+              <div>
                 <h4>Bootstrap</h4>
-                <small className="text-light">Beginner</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className-="experience__details">
@@ -137,7 +137,7 @@ function Experience() {
               />
               <div>
                 <h4>PostgreSQL</h4>
-                <small className="text-light">Beginner</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className-="experience__details">

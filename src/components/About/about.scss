@@ -13,9 +13,9 @@
   display: grid;
   place-items: center;
   .about__me-image {
-    /*         img{
-            background: $color-base-two;
-        } */
+    img {
+      background: $color-base-two;
+    }
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);

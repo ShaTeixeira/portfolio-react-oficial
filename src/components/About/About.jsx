@@ -5,7 +5,7 @@ import "./about.scss";
 
 const About = () => {
   return (
-    <section id="about" /* className="" */>
+    <section id="about">
       <h5>Get To Know</h5>
       <h2>About Me</h2>
 
@@ -21,28 +21,29 @@ const About = () => {
             <article className="about__card">
               <Medal size={26} className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Studying</small>
             </article>
             <article className="about__card">
               <Users size={26} className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>2+ National</small>
             </article>
             <article className="about__card">
               <FolderStar size={26} className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>35+ Completed</small>
             </article>
           </div>
 
           <p>
-            Olá. Tenho 20 anos. Moro no Espirito Santo - Serra. Formada em
-            Tecnico em Informática p/ Internet pelo Instituto Federal do
-            Espirito Santo - IFES - CAMPUS, SERRA. Atualmente, estou cursando
-            Bacharelado em Sistemas de Informação pela Universidade FAESA. Estou
-            procurando minha primeira experiência profissional em uma empresa de
-            tecnologia. Comecei a estudar como Dev Front-End no inicio de 2020.
-            Normalmente tenho me dedicando cerca de 8hrs por dia aos estudos.
+            Hello. I'm 20 years old. I live in Espirito Santo - Serra. Graduated
+            in Technical Informatics for Internet by the Federal Institute of
+            Espirito Santo - (IFES CAMPUS, SERRA). Currently, I'm studying
+            Bachelor of Technology in Internet Systems by the Federal Institute
+            of Espírito Santo. Looking for my first professional experience in a
+            technology company. I started studying how Dev Front-End in early
+            2020. I've usually been dedicating myself approximately 8 hours per
+            day of study.
           </p>
 
           <a href="#contact" className="btn btn-primary">

@@ -16,23 +16,23 @@ function Services() {
           <ul className="service__list">
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Great experience</p>
             </li>
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Functional environment</p>
             </li>
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Innovative design</p>
             </li>
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Best experience for the end customer</p>
             </li>
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Identify problems and opportunities</p>
             </li>
           </ul>
         </article>
@@ -44,55 +44,15 @@ function Services() {
           <ul className="service__list">
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Responsive design</p>
             </li>
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Landing Pages</p>
             </li>
           </ul>
         </article>
         {/* WEB DEVELOPMENT OF END */}
-        <article className="service">
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-          <ul className="service__list">
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <Check className="service__list-icon" size={18} weight="bold" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-          </ul>
-        </article>
-        {/* Content Creation OF END */}
       </div>
     </section>
   );

@@ -28,7 +28,7 @@ const Contact = () => {
           <article className="contact__option">
             <EnvelopeSimple
               size={24}
-              weight="thin"
+              weight="bold"
               className="contact__option-icon"
             />
             <h4>Email</h4>
@@ -40,7 +40,7 @@ const Contact = () => {
           <article className="contact__option">
             <WhatsappLogo
               size={24}
-              weight="thin"
+              weight="bold"
               className="contact__option-icon"
             />
             <h4>Linkedin</h4>

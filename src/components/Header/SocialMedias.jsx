@@ -13,16 +13,16 @@ function SocialMedias() {
         href="https://www.linkedin.com/in/shayane-teixeira-cruz/"
         target="_blank"
       >
-        <LinkedinLogo size={24} weight="regular" />
+        <LinkedinLogo size={26} weight="regular" />
       </a>
       <a href="https://github.com/ShaTeixeira" target="_blank">
-        <GithubLogo size={24} weight="regular" />
+        <GithubLogo size={26} weight="regular" />
       </a>
       <a href="https://www.behance.net/shayaneteixeira" target="_blank">
-        <BehanceLogo size={24} weight="regular" />
+        <BehanceLogo size={26} weight="regular" />
       </a>
       <a href="https://www.instagram.com/byte__dev/" target="_blank">
-        <InstagramLogo size={24} weight="regular" />
+        <InstagramLogo size={26} weight="regular" />
       </a>
     </div>
   );
