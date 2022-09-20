@@ -41,9 +41,8 @@ const About = () => {
             Espirito Santo - (IFES CAMPUS, SERRA). Currently, I'm studying
             Bachelor of Technology in Internet Systems by the Federal Institute
             of Espírito Santo. Looking for my first professional experience in a
-            technology company. I started studying how Dev Front-End in early
-            2020. I've usually been dedicating myself approximately 8 hours per
-            day of study.
+            technology company. Studying since 2020. I've usually been dedicating myself 
+            approximately 8 hours per day of study.
           </p>
 
           <a href="#contact" className="btn btn-primary">

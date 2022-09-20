@@ -43,7 +43,7 @@ const Contact = () => {
               weight="bold"
               className="contact__option-icon"
             />
-            <h4>Linkedin</h4>
+            <h4>Whatsapp</h4>
             <h5>Shayane Teixeira</h5>
             <a
               href="https://api.whatsapp.com/send?phone=5527996189892"
