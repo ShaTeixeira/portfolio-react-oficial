@@ -1,14 +1,13 @@
-import React from 'react'
-import Header from './components/Header/Header'
-import Nav from './components/Nav/Nav'
-import About from './components/About/About'
-import Experience from './components/Experience/Experience'
-import Services from './components/Services/Services'
-import Projects from './components/Projects/Projects'
-import Contact from './components/Contact/Contact'
-import Footer from './components/Footer/Footer'
+import { Header } from './components/Header'
+import { Nav } from './components/Nav'
+import { About } from './components/About'
+import { Experience } from './components/Experience'
+import { Services } from './components/Services'
+import { Projects } from './components/Projects'
+import { Contact } from './components/Contact'
+import { Footer } from './components/Footer'
 
-const App = () => {
+export const App = () => {
   return (
     <>
       <Header/>
@@ -23,4 +22,3 @@ const App = () => {
   )
 }
 
-export default App

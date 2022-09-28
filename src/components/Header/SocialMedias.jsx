@@ -1,4 +1,3 @@
-import React from "react";
 import {
   LinkedinLogo,
   GithubLogo,
@@ -6,7 +5,7 @@ import {
   BehanceLogo,
 } from "phosphor-react";
 
-function SocialMedias() {
+export const SocialMedias = () => {
   return (
     <div className="header__socials">
       <a
@@ -28,4 +27,3 @@ function SocialMedias() {
   );
 }
 
-export default SocialMedias;
