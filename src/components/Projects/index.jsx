@@ -3,6 +3,7 @@ import "./projects.scss";
 import Blog from "../../assets/image/projects/Blog.png";
 import CryptoNFT from "../../assets/image/projects/CryptoNFT.png";
 import GE21GT from "../../assets/image/projects/GE21GT.png";
+import eGames from "../../assets/image/projects/eGames.png";
 /* 
 import feedgetProject from "../../assets/image/projects/feedget.jpeg";
 import newsletterProject from "../../assets/image/projects/newsletter.png";
