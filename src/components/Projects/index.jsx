@@ -61,6 +61,7 @@ export const Projects = () => {
     <section id="projects">
       <h5>My Recent Work</h5>
       <h2>Projects</h2>
+      <h5>more projects under development</h5>
       <div className="container project__container">
         {portfolio.map(({ id, image, title, github, demo }) => {
           return (
