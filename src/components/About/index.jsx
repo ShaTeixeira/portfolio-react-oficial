@@ -20,28 +20,28 @@ export const About = () => {
             <article className="about__card">
               <Medal size={26} className="about__icon" />
               <h5>Experience</h5>
-              <small>2+ Years Studying</small>
+              <small>3+ years</small>
             </article>
             <article className="about__card">
               <Users size={26} className="about__icon" />
               <h5>Clients</h5>
-              <small>2+ National</small>
+              <small>2+ national</small>
             </article>
             <article className="about__card">
               <FolderStar size={26} className="about__icon" />
               <h5>Projects</h5>
-              <small>35+ Completed</small>
+              <small>35+ completed</small>
             </article>
           </div>
 
           <p>
-            Hello. I'm 20 years old. I live in Espirito Santo - Serra. Graduated
-            in Technical Informatics for Internet by the Federal Institute of
-            Espirito Santo - (IFES CAMPUS, SERRA). Currently, I'm studying
-            Bachelor of Technology in Internet Systems by the Federal Institute
-            of Espírito Santo. Looking for my first professional experience in a
-            technology company. Studying since 2020. I've usually been dedicating myself 
-            approximately 8 hours per day of study.
+          Hey. I'm 21 years old and I live in Espírito Santo. Graduate
+          in Computer Technology for the Internet by the Federal Institute of
+          Espírito Santo - (IFES CAMPUS SERRA). I am currently studying
+          Bachelor in Internet Systems by the Federal Institute
+          of the Espírito Santo. I currently work as an intern in development
+          FrontEnd and UI Design. Studying since 2020. I dedicate 4 hours a day 
+          to studying
           </p>
 
           <a href="#contact" className="btn btn-primary">

@@ -33,6 +33,14 @@ export const Services = () => {
               <Check className="service__list-icon" size={18} weight="bold" />
               <p>Identify problems and opportunities</p>
             </li>
+            <li>
+              <Check className="service__list-icon" size={18} weight="bold" />
+              <p>Logo creation</p>
+            </li>
+            <li>
+              <Check className="service__list-icon" size={18} weight="bold" />
+              <p>Visual identity</p>
+            </li>
           </ul>
         </article>
         {/* END OF UI/UX */}
@@ -47,7 +55,27 @@ export const Services = () => {
             </li>
             <li>
               <Check className="service__list-icon" size={18} weight="bold" />
+              <p>Website creation</p>
+            </li>
+            <li>
+              <Check className="service__list-icon" size={18} weight="bold" />
+              <p>Creation of product catalog</p>
+            </li>
+            <li>
+              <Check className="service__list-icon" size={18} weight="bold" />
+              <p>Google Ads</p>
+            </li>
+            <li>
+              <Check className="service__list-icon" size={18} weight="bold" />
+              <p>SEO</p>
+            </li>
+            <li>
+              <Check className="service__list-icon" size={18} weight="bold" />
               <p>Landing Pages</p>
+            </li>
+            <li>
+              <Check className="service__list-icon" size={18} weight="bold" />
+              <p>...</p>
             </li>
           </ul>
         </article>

@@ -1,52 +1,57 @@
-import coffeeProject from "../../assets/image/projects/coffee.jpeg";
-import calcImcProject from "../../assets/image/projects/calcimc.png";
-import devMemoryProject from "../../assets/image/projects/devmemory.jpeg";
+import "./projects.scss";
+
+import Blog from "../../assets/image/projects/Blog.png";
+import CryptoNFT from "../../assets/image/projects/CryptoNFT.png";
+import GE21GT from "../../assets/image/projects/GE21GT.png";
+/* 
 import feedgetProject from "../../assets/image/projects/feedget.jpeg";
 import newsletterProject from "../../assets/image/projects/newsletter.png";
-import walletProject from "../../assets/image/projects/wallet.png";
-
-import "./projects.scss";
+import walletProject from "../../assets/image/projects/wallet.png"; 
+import feedgetProject from "../../assets/image/projects/feedget.jpeg";
+import newsletterProject from "../../assets/image/projects/newsletter.png";
+import walletProject from "../../assets/image/projects/wallet.png"; 
+*/
 
 const portfolio = [
   {
     id: 1,
-    image: coffeeProject,
-    title: "Coffee",
-    github: "https://github.com/ShaTeixeira/rocketcoffee-discover-challenge",
-    demo: "https://shateixeira.github.io/rocketcoffee-discover-challenge/",
+    image: eGames,
+    title: "eGames Figma",
+    github: "https://crypto-nft-dev.vercel.app/",
+    demo: "https://crypto-nft-dev.vercel.app/",
   },
   {
     id: 2,
-    image: calcImcProject,
-    title: "Calculator IMC",
-    github: "https://github.com/ShaTeixeira/calc-imc",
-    demo: "https://calc-imc-two.vercel.app/",
+    image: CryptoNFT,
+    title: "Crypto Figma",
+    github: "https://crypto-nft-dev.vercel.app/",
+    demo: "https://www.figma.com/proto/TqZS0ZCuA0Fn2rs9fIZLrs/Crypto%C2%AE---UI-Kit-V1.5-(Community)?page-id=101%3A433&type=design&node-id=105-440&viewport=409%2C165%2C0.21&t=4uxCQV55tpI5dKvo-1&scaling=scale-down&starting-point-node-id=105%3A440&mode=design",
   },
   {
     id: 3,
-    image: devMemoryProject,
-    title: "Memory Game",
-    github: "https://github.com/ShaTeixeira/memoria-react",
-    demo: "https://memoria-reactjs-st.vercel.app/",
+    image: Blog,
+    title: "Blog",
+    github: "https://github.com/ShaTeixeira/challenge-01-blog",
+    demo: "https://challenge-01-blog-l26r.vercel.app/",
   },
   {
     id: 4,
-    image: feedgetProject,
-    title: "Feedget",
-    github: "https://github.com/ShaTeixeira/nlw-return-feedget",
-    demo: "https://nlw-return-feedget-st.vercel.app/",
+    image: Blog,
+    title: "Blog",
+    github: "https://github.com/ShaTeixeira/challenge-01-blog",
+    demo: "https://challenge-01-blog-l26r.vercel.app/",
   },
   {
     id: 5,
-    image: newsletterProject,
-    title: "newsletter",
-    demo: "https://www.behance.net/gallery/150330443/NEWSLETTER",
+    image: CryptoNFT,
+    title: "Crypto",
+    demo: "https://crypto-nft-dev.vercel.app/",
   },
   {
     id: 6,
-    image: walletProject,
-    title: "wallet",
-    demo: "https://www.behance.net/gallery/150190965/Wallet-StBank",
+    image: GE21GT,
+    title: "GE21 Geotecnologias",
+    demo: "https://ge21gt-website-dev.vercel.app/",
   },
 ];
 

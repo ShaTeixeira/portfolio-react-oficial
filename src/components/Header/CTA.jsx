@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../../assets/cv/cv.pdf";
+import CV from "../../assets/cv/Shayane-Teixeira-da-Cruz-FrontEnd.pdf";
 
 export const CTA = () => {
   return (
