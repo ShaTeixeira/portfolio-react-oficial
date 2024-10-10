@@ -45,9 +45,15 @@ header {
   position: absolute;
   left: calc(50% - 11rem);
   margin-top: 4rem;
-  border-radius: 12rem 12rem 0 0;
+  border-radius: 8rem 10rem 0 0;
   overflow: hidden;
-  padding: 5rem 1.5rem 1.5rem 1.5rem;
+  padding: 2.5rem 1.5rem 1.5rem 1.5rem;
+  img{
+    width: 100%;
+    height: auto;
+    border-radius: 8rem 10rem 0 0;
+    object-fit: cover;
+  }
 }
 
 /* SCROLL DOWN =========================== */

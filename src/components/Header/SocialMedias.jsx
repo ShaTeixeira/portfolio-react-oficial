@@ -20,9 +20,9 @@ export const SocialMedias = () => {
       <a href="https://www.behance.net/shayaneteixeira" target="_blank">
         <BehanceLogo size={26} weight="regular" />
       </a>
-{/*       <a href="https://www.instagram.com/byte__dev/" target="_blank">
+      <a href="https://www.instagram.com/puzzle.studio88/" target="_blank">
         <InstagramLogo size={26} weight="regular" />
-      </a> */}
+      </a>
     </div>
   );
 }

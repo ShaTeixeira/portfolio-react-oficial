@@ -1,6 +1,6 @@
 import "./header.scss";
 import { CTA } from "./CTA";
-import womanWithCoffee from "../../assets/image/icons/woman-with-coffee.svg";
+import meinstagram from "../../assets/image/perfil/meinstagram.jpg"
 import { SocialMedias } from "./SocialMedias";
 
 export const Header = () => {
@@ -14,7 +14,7 @@ export const Header = () => {
         <SocialMedias />
 
         <div className="me">
-          <img src={womanWithCoffee} alt="woman witch coffee" />
+          <img src={meinstagram} alt="me with hat" />
         </div>
 
         <a href="#contact" className="scroll__down">
