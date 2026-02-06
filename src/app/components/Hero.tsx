@@ -61,7 +61,7 @@ export const Hero = () => {
         >
           <div className="relative z-10 rounded-2xl overflow-hidden aspect-[4/5] shadow-2xl grayscale hover:grayscale-0 transition-all duration-700">
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1613275139344-0018ad151c09?auto=format&fit=crop&q=80&w=800"
+              src="https://photos.google.com/photo/AF1QipM1Y-VLGXlLO4OeOhL6FVETy6AHr4o6AsMjVxAk?auto=format&fit=crop&q=80&w=800"
               alt="Shayane Cruz"
               className="object-cover w-full h-full"
             />
