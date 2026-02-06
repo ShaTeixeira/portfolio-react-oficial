@@ -8,9 +8,9 @@ const projects = [
     title: "GE21 Geotecnologia",
     category: "Landing Page",
     description: "Desenvolvimento de página institucional focada em clareza e conversão para o setor de geotecnologia.",
-    image: "https://images.unsplash.com/photo-1758598303946-385680e4eabd?auto=format&fit=crop&q=80&w=1200",
+    image: "https://media.licdn.com/dms/image/v2/D4E3DAQE2aVe3Nj47iA/image-scale_191_1128/image-scale_191_1128/0/1710423756233/ge21gt_cover?e=2147483647&v=beta&t=-o6xEthuVvyeKozUZFykp8LGvKBYKrNtLkn_ytdpqfE?auto=format&fit=crop&q=80&w=1200",
     tags: ["React", "React Router", "Vite", "JavaScript"],
-    link: "#",
+    link: "https://ge21gt.com.br/",
     github: "https://github.com/ShaTeixeira/"
   },
   {
@@ -19,16 +19,16 @@ const projects = [
     description: "Sistema de monitoramento escolar permitindo que pais acompanhem o trajeto dos filhos em tempo real.",
     image: "https://images.unsplash.com/photo-1742774101931-5b540678bb3c?auto=format&fit=crop&q=80&w=1200",
     tags: ["React", "TypeScript", "Figma", "Vite"],
-    link: "#",
+    link: "https://github.com/ShaTeixeira?tab=repositories",
     github: "https://github.com/ShaTeixeira/"
   },
   {
     title: "Alarme Connect",
     category: "Web Maintenance",
     description: "Site responsivo com foco total em acessibilidade e SEO. Manutenção contínua e evolução de funcionalidades.",
-    image: "https://images.unsplash.com/photo-1634838083208-ce7a36701fe4?auto=format&fit=crop&q=80&w=1200",
+    image: "https://media.licdn.com/dms/image/v2/C4D0BAQHOtxO_NPrJMw/company-logo_200_200/company-logo_200_200/0/1630567334450/alarme_connect_tecnologia_em_segurana_logo?e=2147483647&v=beta&t=HcX-GagMIh4_whRlBoAIFmIscqTPPQpprXEs-QRuXws?auto=format&fit=crop&q=80&w=1200",
     tags: ["React", "Tailwind CSS", "SEO", "Accessibility"],
-    link: "#",
+    link: "https://alarmeconnect.com.br/",
     github: "https://github.com/ShaTeixeira/"
   }
 ];
